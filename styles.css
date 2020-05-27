@@ -1,0 +1,43 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    border: 1px solid #ffffff;
+    padding: 0 10px;
+    background-color: #ffc0cb;
+}
+
+#card {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    box-shadow: 5px 5px #ddd;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.picture {
+    width: 300px;
+}
+
+.card-info {
+    margin: 0px;
+    padding: 10px;
+    border-color: 1px solid #cccccc;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.list {
+    list-style: none;
+    padding: 0px;
+}
+
+.label {
+  font-weight: bold;
+}
